@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and what i do.
-img_path: images/about.jpg
+img_path: images/john-grey.jpeg
 img_alt: Portrait of a man with beard and mustache
 template: page
 ---
