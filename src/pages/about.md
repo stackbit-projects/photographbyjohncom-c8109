@@ -5,12 +5,28 @@ img_path: images/john-grey.jpeg
 img_alt: 'Portrait of a man with coffee and cookie :)'
 template: page
 ---
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+*Hi, I'm john. For several years I have become addicted to sharing information. First I started as a Google Guide. And after less than a year, I had over 1 million views on my photos in google maps. Shortly after my start I also started to google street view to share even more information.*
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+**
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+*I had been active on Twitter for years and I didn't do much with Instagram. Now that I share my information on many platforms, it seems like a kind of addiction.*
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+**
 
-*Thank You for reading!*
+*There are days when I am silent but also days of overactivity. This is just how fit I am.*
+
+**
+
+*But long story short, what is my goal? I love the 4 million views on google per year and the million views on my Twitter accounts together but .... there is always only one. How about a million views total per month. Wouldn't that be great?*
+
+**
+
+*As a volunteer, I share and also write for a few websites. These are (partly) from my wife and friends. So I will count these views.*
+
+**
+
+*Do you want me to mention you too? Please contact us via the contact form.*
+
+**
+
+*Greetings from john*
