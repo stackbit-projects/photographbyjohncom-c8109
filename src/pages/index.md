@@ -6,10 +6,8 @@ sections:
     type: section_hero
     title: 'Hi, I''m John.'
     content: >
-      For several years I have become addicted to sharing information. First I
-      started as a Google Guide. And after less than a year, I had over 1
-      million views on my photos in google maps. Shortly after my start I also
-      started to google street view to share even more information.
+      Writing form Croatia Where I live with my wife and 3 girls for several
+      years
   - section_id: about
     type: section_content
     title: About
