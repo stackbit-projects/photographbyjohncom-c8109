@@ -5,9 +5,11 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m John.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      For several years I have become addicted to sharing information. First I
+      started as a Google Guide. And after less than a year, I had over 1
+      million views on my photos in google maps. Shortly after my start I also
+      started google streetview to share even more information.
   - section_id: about
     type: section_content
     title: About
