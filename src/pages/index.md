@@ -9,7 +9,7 @@ sections:
       For several years I have become addicted to sharing information. First I
       started as a Google Guide. And after less than a year, I had over 1
       million views on my photos in google maps. Shortly after my start I also
-      started google street view to share even more information.
+      started to google street view to share even more information.
   - section_id: about
     type: section_content
     title: About
