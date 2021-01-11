@@ -2,7 +2,7 @@
 title: About Me
 subtitle: This is a short page about me and what i do.
 img_path: images/john-grey.jpeg
-img_alt: 'Portrait of a man with caffee and cookie :)'
+img_alt: 'Portrait of a man with coffee and cookie :)'
 template: page
 ---
 
